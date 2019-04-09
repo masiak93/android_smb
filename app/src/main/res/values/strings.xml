@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Projekt1</string>
+    <string name="choose_font_color">Choose font color</string>
+    <string name="blue">Blue</string>
+    <string name="black">Black</string>
+    <string name="red">Red</string>
+    <string name="small">small</string>
+    <string name="medium">medium</string>
+    <string name="choose_font_size">Chose font size</string>
+    <string name="big">Big</string>
+    <string name="font_small">10</string>
+    <string name="font_medium">16</string>
+    <string name="font_big">27</string>
+    <string name="title_activity_login">Sign in</string>
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="title_activity_maps">Map</string>
+    <string name="lat_lon">Latitude and Longitude</string>
+    <string name="name_of_shop">Specify name of shop</string>
+    <string name="name_of_shop_hint">Write shop name here</string>
+    <string name="description">You can write a short description here</string>
+    <string name="description_hint">Description...</string>
+    <string name="radius">Put shop radius coverage in metres</string>
+    <string name="radius_hint">Radius value</string>
+    <string name="title_activity_favourite_shops_on_map">Map</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="configure">Configure</string>
+    <string name="add_widget">Add widget</string>
+</resources>
